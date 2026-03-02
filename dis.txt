@@ -1,2 +1,3 @@
 plant disease
 identifying plant disease
+comparing with indexes
